@@ -1,0 +1,21 @@
+# Dependencias de Node
+node_modules/
+
+# Variables de entorno (¡CRÍTICO NO SUBIR!)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs de errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de Vercel
+.vercel/
+
+# Archivos del sistema operativo (Mac/Windows)
+.DS_Store
+Thumbs.db
