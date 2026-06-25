@@ -95,7 +95,7 @@ app.get('/', (req, res) => {
       health: '/health'
     },
     links: {
-      docs: 'https://github.com/TU_USUARIO/bff-grupo1#readme'
+      docs: 'https://github.com/FranKix20/Bff-mock'
     }
   });
 });
